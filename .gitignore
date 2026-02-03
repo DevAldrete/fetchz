@@ -1,0 +1,5 @@
+# Builds
+zig-out/
+
+# Cache
+.zig-cache/
