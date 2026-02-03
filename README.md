@@ -144,7 +144,7 @@ fetchz/
 
 ## License
 
-MIT
+GPL v3
 
 ## Contributing
 
